@@ -1,0 +1,11 @@
+x = 60
+y = 45
+print('x + y =', x + y)
+print('x - y =', x - y)
+print('x / y =', x / y)
+print('x * y =', x * y)
+print('x % y =', x % y)
+print('x // y =', x // y)
+print('x ** y =', x ** y)
+print('((15 * 10 – 20) / 2) + 14 * 10 + (100-45) =', ((15 * 10 - 20) / 2) + 14 * 10 + (100 - 45))
+print('bin x =', bin(x))
